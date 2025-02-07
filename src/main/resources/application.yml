@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: deepseek-java
+
+
+
+
+
+ai:
+  deepseek:
+    baseUrl: http://localhost:11434/api/chat
+    model: deepseek-coder-v2
+    timeout: 60
