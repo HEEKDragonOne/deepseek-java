@@ -1,7 +1,4 @@
 
-
-支持多轮对话
-
 使用示例：src/main/java/com/tothefor/deepseekjava/demo.java
 ```java
 public class demo {
